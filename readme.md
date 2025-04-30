@@ -30,6 +30,7 @@
 - This is made by `https://www.gta5-mods.com/misc/roads-of-europe` and i just make it work in fivem.
 
 # Yellow Roads Fix
-![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/image/screenshot1.png?raw=true)
-![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/image/screenshot1.png?raw=true)
-![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/image/screenshot1.png?raw=true)
+
+![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/images/screenshot1.png)
+![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/images/screenshot3.png)
+![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/images/screenshot2.png)
