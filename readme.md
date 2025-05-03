@@ -4,33 +4,6 @@
     <h3 align="center">A passionate allround developer </h3>    
 </p>
 
-<p align="center">
-  <a href="https://github.com/MaDHouSe79/mh-roads/issues">
-    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-roads"/> 
-  </a>
-  <a href="https://github.com/MaDHouSe79/mh-roads/watchers">
-    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-roads"/> 
-  </a> 
-  <a href="https://github.com/MaDHouSe79/mh-roads/network/members">
-    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-roads"/> 
-  </a>  
-  <a href="https://github.com/MaDHouSe79/mh-roads/stargazers">
-    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-roads?color=white"/> 
-  </a>
-  <a href="https://github.com/MaDHouSe79/mh-roads/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-roads?color=black"/> 
-  </a>      
-</p>
-
-# My Youtube Channel
-- [Subscribe](https://www.youtube.com/c/@MaDHouSe79) 
-
-# European Roads
-- Here a script with nice roads in your city.
-- This is made by `https://www.gta5-mods.com/misc/roads-of-europe` and i just make it work in fivem.
-
-# Yellow Roads Fix
-
-![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/images/screenshot1.png)
-![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/images/screenshot3.png)
-![alttext](https://github.com/MaDHouSe79/mh-roads/blob/main/images/screenshot2.png)
+# MH Roads (European Roads Fivem Ready (With Yellow Roads Fix) )
+- Download: https://github.com/MH-Scripts
+- Youtube: https://www.youtube.com/@MaDHouSe79
